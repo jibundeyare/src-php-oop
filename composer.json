@@ -1,0 +1,14 @@
+{
+    "name": "jibundeyare/src-php-oop",
+    "description": "PHP Programmation orientée objet",
+    "authors": [
+        {
+            "name": "Daishi Kaszer",
+            "email": "daishi.kaszer@yahoo.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {}
+}
